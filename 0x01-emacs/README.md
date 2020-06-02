@@ -1,1 +1,1 @@
-my first learnign with emacs
+hello world
